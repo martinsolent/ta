@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Single Page 1
+title: Topics & Weekly Classes
 nav_order: 2
 ---
 
