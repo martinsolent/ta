@@ -53,7 +53,7 @@ Schedule regular interactive feedback sessions with students, e.g. one to one, s
 Include opportunities for students to reflect and monitor their own progress
 as they learn. 
 
-## Guidance Leflet
+## Guidance Leaflet
 
 The SOL for COM302 was submitted to the Transformation Academy to be checked and signed off for both the build a topic and build a module which were created within the TA guidelines. 
 
